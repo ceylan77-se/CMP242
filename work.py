@@ -1,3 +1,5 @@
+
+# Fatma you haven't explain anything here what were you trying to do in with these codes???
 import email
 class Students:
     discount_amt = 200
@@ -26,3 +28,4 @@ class Students:
 K2020xxx = Students('Kerem','A',16000)
 K2021xxx = Students('Ceylan','C',16000)
 print(K2020xxx + K2021xxx)
+
