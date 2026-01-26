@@ -1,5 +1,4 @@
 
-# Fatma you haven't explain anything here what were you trying to do in with these codes???
 class Engine:
     def __init__(self,horsepower):
         self.horsepower = horsepower
@@ -15,3 +14,4 @@ class Car:
         self.engine = Engine(horsepower)
 
         self.wheel = [Wheel(wheel_size) for _ in range (4) ]
+
