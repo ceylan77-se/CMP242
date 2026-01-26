@@ -1,4 +1,3 @@
-# Fatma you haven't explain anything here what were you trying to do in with these codes???
 
 def withdraw(balances, amounts):
     if amounts > balances:
@@ -17,3 +16,4 @@ except ValueError as e:
     else:
 
         print("Transaction Error:", e)
+
